@@ -62,7 +62,7 @@ addToEnd()
   - Printing & Formatting
 
 fixHeap()
-  - Understading of heap operations: heapify, sift-up, sift-down
+  - Understanding of heap operations: heapify, sift-up, sift-down
 
 evictIfNeeded()
   - Hash-Tables(implemented using entries & tables)
